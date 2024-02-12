@@ -1,6 +1,6 @@
 
 # YARDIM VEYA HATA İÇİN 
-# [![BOT STUDIO](https://discord.gg/botstudios)
+# [BOT STUDIO](https://discord.gg/botstudios)
 
 
 
