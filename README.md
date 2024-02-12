@@ -1,10 +1,28 @@
-
-# YARDIM VEYA HATA İÇİN 
-# [BOT STUDIO](https://discord.gg/botstudios)
+ # Botun Kurulumu
 
 
+- İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
 
-# BOT ÖRNEK 
+- NPM İ yaz MODULLERİ İNDİR Başlat.bat bas bot aktif
+- botda hiç bir hata yoktur eğer mal değilseniz yaparsınız
+- emoji hatası almazsınız ve **ONAY** tikli emojileri vsc deki arama kısmına basıp araştırın ve oraya emoji idlerinizi girin
+- kullanın orospu evlatları işte
+
+# Credit
+
+- Lexu kardeşim ile beraber repoyu atmak istedik iyi kullanmalar
+- çakma coderlere selam olsun
+- botlar farklı mantık taşımakta
+
+# Developer sunucumuz
+
+- [Bot Studio](https://discord.gg/botstudios)
+
+
+# 📷 Bazı Görüntüler
+
+### Githubdaki Botun Bazı Görselleri
+<details>
 ![image](https://cdn.discordapp.com/attachments/1197997939608535102/1206727356287557653/image.png?ex=65dd0f6d&is=65ca9a6d&hm=da6c0d3a2d4897ffce490919987b086b268e2d3db796353b76fee554456381e7&)
 ![image](https://cdn.discordapp.com/attachments/1197997796125593742/1206728720493182976/image.png?ex=65dd10b2&is=65ca9bb2&hm=17cbb85568ccbfc6fcc2a149832caf423beedb198dfa9bfee793756ced1d0c67&)
 ![image](https://cdn.discordapp.com/attachments/1197997796125593742/1206729606984503327/image.png?ex=65dd1186&is=65ca9c86&hm=00ce71ee48465e97af7ebfcb54fa765b30c8a055c1fc90f9d466b5fb55c2f413&)
