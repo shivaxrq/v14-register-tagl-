@@ -1,6 +1,6 @@
 
 # YARDIM VEYA HATA İÇİN 
-# [![Discord Banner](https://api.weblutions.com/discord/invite/safecode/)](https://discord.gg/safecode)
+# [![BOT STUDIO](https://discord.gg/botstudios)
 
 
 
