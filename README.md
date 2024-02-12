@@ -5,7 +5,6 @@
 
 - NPM İ yaz MODULLERİ İNDİR Başlat.bat bas bot aktif
 - botda hiç bir hata yoktur eğer mal değilseniz yaparsınız
-- emoji hatası almazsınız ve **ONAY** tikli emojileri vsc deki arama kısmına basıp araştırın ve oraya emoji idlerinizi girin
 - kullanın orospu evlatları işte
 
 # Credit
